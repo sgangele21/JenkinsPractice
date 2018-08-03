@@ -1,3 +1,3 @@
 #!/bin/sh
 
-echo "Sahil Komar Gangele!"
+echo "Sahil Komar Gangele"
